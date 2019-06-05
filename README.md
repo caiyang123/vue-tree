@@ -1,4 +1,5 @@
 # vue-tree
+简单树组件，组件递归
 
 ## Project setup
 ```
